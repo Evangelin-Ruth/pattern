@@ -1,10 +1,13 @@
 ### pattern
 1.Print the following pattern.
+```
 *****
 *****
 *****
 *****
 *****
+```
+
 ### PROGRAM:
 ```
 public class pattern1 {
@@ -20,20 +23,23 @@ public class pattern1 {
 }
 ```
 ### OUTPUT:
+```
 *****
 *****
 *****
 *****
 *****
-
+```
 
 
 2.Print the following patten.
+```
 *********
  *******
   *****
    ***
     *
+```
 
 ### PROGRAM:
 ```
@@ -56,13 +62,16 @@ public class pattern2
     }
 ```
 ### OUTPUT:
+```
 *********
  *******
   *****
    ***
     *
-    
+```
+
 3.Print the following pattern.
+```
 *
 **
 ***
@@ -72,6 +81,7 @@ public class pattern2
 ***
 **
 *
+```
 
 ### PROGRAM:
 ```
@@ -95,6 +105,7 @@ public class pattern3
     }
 ```
 ### OUTPUT:
+```
 *
 **
 ***
@@ -104,3 +115,4 @@ public class pattern3
 ***
 **
 *
+```
