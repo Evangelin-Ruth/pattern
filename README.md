@@ -1,5 +1,5 @@
-### pattern
-1.Print the following pattern.
+## Pattern
+### 1.Print the following pattern.
 ```
 *****
 *****
@@ -22,17 +22,10 @@ public class pattern1 {
     }
 }
 ```
-### OUTPUT:
-```
-*****
-*****
-*****
-*****
-*****
-```
 
 
-2.Print the following patten.
+
+### 2.Print the following patten.
 ```
 *********
  *******
@@ -61,16 +54,8 @@ public class pattern2
         }
     }
 ```
-### OUTPUT:
-```
-*********
- *******
-  *****
-   ***
-    *
-```
 
-3.Print the following pattern.
+### 3.Print the following pattern.
 ```
 *
 **
@@ -103,16 +88,4 @@ public class pattern3
             }
         }
     }
-```
-### OUTPUT:
-```
-*
-**
-***
-****
-*****
-****
-***
-**
-*
 ```
